@@ -1,2 +1,3 @@
-org\springframework\ai\mcp\sample\server\AdminCheckService.class
+org\springframework\ai\mcp\sample\server\SseAdminCheckController.class
+org\springframework\ai\mcp\sample\server\McpServerApplication$1.class
 org\springframework\ai\mcp\sample\server\McpServerApplication.class

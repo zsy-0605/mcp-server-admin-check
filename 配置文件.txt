@@ -1,0 +1,15 @@
+"admin-check-server-sse": {
+        "command": "cmd",
+        "args": [
+          "/c",
+          "java",
+          "-Dserver.port=8089",
+          "-Dspring.ai.mcp.server.sse=true",
+          "-jar",
+          "E:\\IdeaProjects\\MCPenv\\target\\MCP-0.0.1-SNAPSHOT.jar"
+        ],
+        "env": {
+          "ADMIN_USER_ID": "super-admin-2024"
+        },
+        "disabled": false
+      }
